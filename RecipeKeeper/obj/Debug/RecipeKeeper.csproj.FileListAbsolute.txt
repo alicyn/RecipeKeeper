@@ -14,7 +14,6 @@ c:\users\nena\documents\visual studio 2017\Projects\RecipeKeeper\RecipeKeeper\ob
 C:\Users\agallagher\Documents\Visual Studio 2017\Projects\RecipeKeeper\RecipeKeeper\bin\Debug\RecipeKeeper.exe.config
 C:\Users\agallagher\Documents\Visual Studio 2017\Projects\RecipeKeeper\RecipeKeeper\bin\Debug\RecipeKeeper.exe
 C:\Users\agallagher\Documents\Visual Studio 2017\Projects\RecipeKeeper\RecipeKeeper\bin\Debug\RecipeKeeper.pdb
-C:\Users\agallagher\Documents\Visual Studio 2017\Projects\RecipeKeeper\RecipeKeeper\obj\Debug\RecipeKeeper.csprojResolveAssemblyReference.cache
 C:\Users\agallagher\Documents\Visual Studio 2017\Projects\RecipeKeeper\RecipeKeeper\obj\Debug\MainWindow.g.cs
 C:\Users\agallagher\Documents\Visual Studio 2017\Projects\RecipeKeeper\RecipeKeeper\obj\Debug\App.g.cs
 C:\Users\agallagher\Documents\Visual Studio 2017\Projects\RecipeKeeper\RecipeKeeper\obj\Debug\RecipeKeeper_MarkupCompile.cache

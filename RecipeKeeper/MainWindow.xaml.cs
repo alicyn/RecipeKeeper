@@ -25,19 +25,5 @@ namespace RecipeKeeper
             InitializeComponent();
         }
 
-
-        private void btnAdd_Click(object sender, RoutedEventArgs e)
-        {
-           
-            string pantry_item = txtAddItem.Text;
-            //MessageBox.Show(myValue, "Message");
-            lstPantryItems.Items.Add(pantry_item);
-
-        }
-
-        private void btnSave_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
     }
 }
